@@ -1,4 +1,8 @@
 
+while loop
+for loop
+array
+
 // full form of varriable name
 
 // var sweetGiven = 1;
